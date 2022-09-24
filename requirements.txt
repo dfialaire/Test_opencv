@@ -1,0 +1,10 @@
+opencv-contrib-python-headless
+
+voila==0.3.6
+
+ipywidgets==7.6.3
+
+reportlab==3.5.68
+pathlib==1.0.1
+selenium==3.141.0
+splinter==0.15.0
