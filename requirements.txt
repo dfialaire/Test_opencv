@@ -78,3 +78,8 @@ websocket-client==1.4.1
 websockets==10.3
 widgetsnbextension==4.0.3
 zipp==3.8.1
+
+reportlab==3.5.68
+pathlib==1.0.1
+selenium==3.141.0
+splinter==0.15.0
